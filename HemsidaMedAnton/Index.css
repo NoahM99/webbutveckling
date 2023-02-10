@@ -2,15 +2,16 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url(Bilder/cannabis-webb.jpg);
+    background-image: url(Bilder/VitBakgrund.jpg);
     min-height: 100vh;
     display: flex;
     flex-direction: column;
   }
   
   header {
-    background-image: url(Bilder/cannabis-webb.jpg);
-    color: #fff;
+    background-image: url(Bilder/VitBakgrund.jpg);
+    color: #0f0d0d;
+    
     padding: 20px;
     
   }
@@ -23,10 +24,11 @@ body {
   
   nav {
     background-color: #eee;
+    text-decoration-color: #fff;
     display: flex;
     justify-content: space-around;
     padding: 45px;
-    background-image: url(Bilder/marijuana-joint-11550726261smmqkw38yd.png);
+    background-image: url(Bilder/SvartBild.jpg);
   }
   
   nav ul {
@@ -42,7 +44,7 @@ body {
   }
   
   nav a {
-    color: rgb(28, 86, 1);
+    color: rgb(248, 249, 248);
     text-decoration: none;
     font-size: 1.2em;
     background-color: rgb(1, 4, 0);
@@ -51,7 +53,8 @@ body {
   
   main {
     margin: 20px;
-    background-color: rgb(73, 118, 6);
+    background-color: rgb(6, 10, 1);
+    color: white;
   }
   
   section {
